@@ -1,8 +1,6 @@
-name: "index"
+output_dir: "docs"
+
 output:
   html_document:
-    theme: flatly # specifies the theme
-navbar:
-  left:
-    - text: "Home"
-      href: index.html
+      toc: true
+      toc_float: true
