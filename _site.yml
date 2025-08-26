@@ -1,0 +1,4 @@
+name: "index"
+output:
+  html_document:
+    theme: flatly # specifies the theme
