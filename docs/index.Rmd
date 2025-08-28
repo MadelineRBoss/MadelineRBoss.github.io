@@ -1,0 +1,23 @@
+---
+title: "Madeline's Simple Website"
+image: "IMG_4535.JPEG"
+links:
+  - label: GitHub
+    url: "https://github.com/MadelineRBoss"
+output:
+  postcards::jolla
+---
+
+Hello! I'm Madeline Boss, a third year data science major. I'm also getting a minor in business and a certificate in computer science. I also TA for Intro to Data Science this semester. Outside of academics, I also enjoy baking, crocheting, and reading.
+
+Books I've Read Lately
+
+-   Outlier by Susie Tate
+
+-   Bewitched by Laura Thalassa
+
+-   Fourth Wing by Rebecca Yarros
+
+```{r}
+Sys.time()
+```
